@@ -40,9 +40,26 @@ th {
 tr:nth-child(even) {
     background-color: lightcoral;
 }
-
-.placeholder-row{
+.employee-deletebutton {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+}
+.delete-icon {
+    width: 35px;
+    height: 35px;
+}
+/* .add-employee-button{
+     background: none; 
+     border: 5px solid black;
+} 
+.add-icon{
+    width: 35px;
+    height: 35px; */
+/* } */
+/* .placeholder-row{
     background: lightgray;
     height: 50px;
     border:2px dashed #888
-}
+} */
